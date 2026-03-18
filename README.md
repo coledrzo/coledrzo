@@ -46,11 +46,10 @@ A Python tool that filters and analyzes IMDb datasets to generate custom movie r
 
 ## 🎮 Hobbies & Interests
 
-- 🧙 Magic: The Gathering & Dungeons & Dragons
 - 🏍️ Riding Motorcycles
 - 🛼 Rollerblading
-- ⚡ Tinkering with Raspberry Pi + Linux setups
-- 🤖 Dreaming up new automation ideas and tools
+- 📸 Photography
+- ⚡ Flying FPV Drones
 
 ## 🔗 Let’s Connect
 
