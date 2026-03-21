@@ -13,7 +13,7 @@ Welcome to my corner of GitHub! I'm a curious builder with a passion for learnin
 
 ## 💻 What I’m About
 
-- 🎓 Student in **Computer Science** with a background in **Welding Technologies**
+- 🎓 Student in **Computer Science** with a focus in **Human Computer Interaction**
 - ⚙️ Focused on creating useful, fun, and sometimes quirky tools
 - 🧩 I love automating things, building helpful side projects, and diving into new tech
 
