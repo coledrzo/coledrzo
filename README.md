@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Cole+Dorazio!+%F0%9F%8F%8D%EF%B8%8F;I+write+code+that+does+the+boring+stuff+for+me.+%F0%9F%94%A7;Forging+code+like+steel.+%E2%9A%92%EF%B8%8F;Let's+automate+some+things.+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
-## 🛼 Cole Dorazio
+## 🏍️ Cole Dorazio
 
 Welcome to my corner of GitHub! I'm a curious builder with a passion for learning **software and hardware**, from android apps or home servers, to soldering micro controllers or coding projects. I enjoy creating solutions to everyday personal problems and have a passion for being organized with clean documentation and clear instructions.
 
@@ -17,7 +17,7 @@ Welcome to my corner of GitHub! I'm a curious builder with a passion for learnin
 - 🚀 Founder and owner of **Cyberflight Studios**, a photography, videography, and drone media company
 - 🧩 I love automating things, building helpful side projects, and diving into new tech
 
-## 🎮 Hobbies & Interests
+## 📸 Hobbies & Interests
 
 - 🏍️ Riding Motorcycles
 - 🛼 Rollerblading
