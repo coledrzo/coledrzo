@@ -26,10 +26,10 @@ Welcome to my corner of GitHub! I'm a curious builder with a passion for learnin
 
 ## 🧪 Projects I’m Proud Of
 
-## 🚀 [Currency Counter](https://github.com/KlassicCole/currency_calculator)
+### 🚀 [Currency Counter](https://github.com/KlassicCole/currency_calculator)
 A sleek Android app for quickly counting cash and coins with a clean UI and offline support.
 
-## 🎬 [Movie Data Scraper](https://github.com/KlassicCole/movie_data_scraper)
+### 🎬 [Movie Data Scraper](https://github.com/KlassicCole/movie_data_scraper)
 A Python tool that filters and analyzes IMDb datasets to generate custom movie recommendations based on genres, ratings, and more.
 
 ## 💻 Languages & Technologies
