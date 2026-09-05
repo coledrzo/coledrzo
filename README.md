@@ -17,12 +17,19 @@ Welcome to my corner of GitHub! I'm a curious builder with a passion for learnin
 - ⚙️ Focused on creating useful, fun, and sometimes quirky tools
 - 🧩 I love automating things, building helpful side projects, and diving into new tech
 
+## 🎮 Hobbies & Interests
+
+- 🏍️ Riding Motorcycles
+- 🛼 Rollerblading
+- 📸 Photography
+- ⚡ Flying FPV Drones
+
 ## 🧪 Projects I’m Proud Of
 
-### 🚀 [Currency Counter](https://github.com/KlassicCole/currency_calculator)
+## 🚀 [Currency Counter](https://github.com/KlassicCole/currency_calculator)
 A sleek Android app for quickly counting cash and coins with a clean UI and offline support.
 
-### 🎬 [Movie Data Scraper](https://github.com/KlassicCole/movie_data_scraper)
+## 🎬 [Movie Data Scraper](https://github.com/KlassicCole/movie_data_scraper)
 A Python tool that filters and analyzes IMDb datasets to generate custom movie recommendations based on genres, ratings, and more.
 
 ## 💻 Languages & Technologies
@@ -45,13 +52,6 @@ A Python tool that filters and analyzes IMDb datasets to generate custom movie r
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-
-## 🎮 Hobbies & Interests
-
-- 🏍️ Riding Motorcycles
-- 🛼 Rollerblading
-- 📸 Photography
-- ⚡ Flying FPV Drones
 
 ## 🔗 Let’s Connect
 
