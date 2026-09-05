@@ -14,7 +14,7 @@ Welcome to my corner of GitHub! I'm a curious builder with a passion for learnin
 ## 💻 What I’m About
 
 - 🎓 Student in **Computer Science** with a focus in **Human Computer Interaction**
-- ⚙️ Focused on creating useful, fun, and sometimes quirky tools
+- 🚀 Founder and owner of **Cyberflight Studios**, a photography, videography, and drone media company
 - 🧩 I love automating things, building helpful side projects, and diving into new tech
 
 ## 🎮 Hobbies & Interests
@@ -57,3 +57,4 @@ A Python tool that filters and analyzes IMDb datasets to generate custom movie r
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cyberflightstudios/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cyberflightstudios)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@cyberflightstudios)
+[![Cyberflight Studios](https://img.shields.io/badge/Cyberflight%20Studios-Website-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://cyberflight.studio)
